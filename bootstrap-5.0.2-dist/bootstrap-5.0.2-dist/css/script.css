@@ -1,0 +1,21 @@
+body{
+
+}
+ul{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+li{
+    padding: 2em;
+list-style: none;
+}
+li a:hover{
+    background-color: blcak;
+    color: red;
+}
+li a{
+    color:white;
+    text-decoration: none;
+    font-size: 17px;
+}
